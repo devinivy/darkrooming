@@ -8,17 +8,36 @@
     - You can over-develop a print, but it's a rare problem.
   3. Mix **stop bath** to be no shallower than 1/2-inch deep in the middle tray.  Follow the instructions on the bottle.
     - You can also use white vinegar, mixing 1 part vinegar to 4 parts water.
-    - You can tell when stop bath is dead by rubbing a little bit between your fingers.  If it feels a little bit greasy, then it's probably time to change the chemical.
     - There may also be leftover stop bath from a previous session– check the containers.
     - You can't over-stop a print.
   4. Mix **fixer** to be no shallower than 1/2-inch deep in the middle tray.  Follow the instructions on the bottle.
-    - The bottle/package might indicate the number of square inches of paper that it can handle.  It's somewhat worthwhile to pay attention to this.  Fixer gets "spent" as it collects silver from the paper.  If you fix your print with spent fixer, then some day your print could turn brown.
+    - The bottle might indicate the number of square inches of paper that it can handle.  It's somewhat worthwhile to pay attention to this.  Fixer gets "spent" as it collects silver from the paper.  If you fix your print with spent fixer, then some day your print could turn brown.
+    - There may also be leftover fixer from a previous session– check the containers.
     - Fixer shouldn't go down the drain.
-    - You can't over-fix a print.
-
+    - You can't over-fix a print, though time spent fixing a print might affect how long it needs to be washed.
+  5. Set a larger tray in the sink area, and fill the tray with cold water.  This will be used as a holding area for prints post-development.  It will also be used to wash prints at the end of a session.
+  6.  Ensure the dry area around the enlarger is indeed dry, decluttered, and not dusty.
+  7. Turn on the safe light and ensure the door closes tightly.
+  8. Ensure any "printing in-progress" signage is placed on the door or otherwise visible.
+  7. Hang loose.
 
 ### Teardown
+
 ### Chronically
+#### Rotate out spent chemicals
+##### Developer
+  - Lasts ~1 session.
+  - Lifetime can be estimated by reading the packaging, which should indicate how many square inches of paper can be developed per volume of developer.
+  - Can be simply poured down the drain.
+
+##### Fixer and stop bath
+  - Lasts ~2 sessions.
+  - Fixer can be tested by placing a drop on an undeveloped film leader then measuring its clearing time.  Stop bath can be tested by rubbing a little bit between your fingers– if it feels slightly greasy, then it's probably spent.
+  - Are often mixed together (stop is acidic and fixer is alkaline, so together they become more neutral).  Keep spent chemicals in a plastic container, and routinely dispose of them through the city or a photo lab (ideally).  Tread carefully when asking the city about chemical disposal.
+  - Sometimes labs will take spent fixer for free because they can recover the silver suspended in it (photo paper contains silver).
+
+#### Check drying racks
+  - Sometimes prints get left for a _long_ time in the drying rack.  If that's an issue, just make a pile of prints that have been in the rack for too long, and let folks sort through the pile to find their prints as needed.
 
 ## As a printer
 ### Gather
